@@ -75,6 +75,9 @@ nav:
           - What is the AI-VERDE API: api/index.md
           - Obtaining your AI-VERDE API Key: api/api-token.md
           - Getting a List of Models: api/api-key-models.md
+      - Using Your API Key for AWS Bedrock Models (UPDATED May 7, 2026):
+          - What is AWS Bedrock: api/aws_bedrock.md
+          - Using Claude Code: api/aws_bedrock_claude_code.md
       - Using Your API Key in Code:
           - LangChain: api/api-token-langchain.md
           - LlamaIndex: api/api-token-llamaindex.md
