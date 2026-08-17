@@ -75,7 +75,7 @@ nav:
           - What is the AI-VERDE API: api/index.md
           - Obtaining your AI-VERDE API Key: api/api-token.md
           - Getting a List of Models: api/api-key-models.md
-      - Using Your API Key for AWS Bedrock Models (UPDATED May 7, 2026):
+      - Using Your API Key for AWS Bedrock Models:
           - What is AWS Bedrock: api/aws_bedrock.md
           - Using Claude Code: api/aws_bedrock_claude_code.md
       - Using Your API Key in Code:
@@ -85,6 +85,10 @@ nav:
           - Claude Code Router: api/claude-code-router.md
           - Aider: api/aider.md
           - Claude Code (using Anthropic Models): api/api-key-claude.md
+          - Claude Code (using non-Anthropic Models): api/api-key-claude-non-anthropic.md
+          - Claude Code (using AWS Bedrock Models): api/aws_bedrock_claude_code.md
+          - Codex: api/api-key-codex.md
+          - OpenCode: api/api-key-opencode.md
       - Using IDEs:
           - VSCode: api/api-token-vscode.md
           - Jupyter: api/api-token-jupyter.md
